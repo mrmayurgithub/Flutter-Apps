@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="facebook_app_id">255927829013249</string>
+<string name="fb_login_protocol_scheme">fb255927829013249</string>
+<string name="app_name">notesync</string>
+</resources>
